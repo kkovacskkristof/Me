@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HeirVeritas
+- 👋 Hi, I’m Kristof
 - 👀 I’m interested in learning new stuff
 - 🌱 I’m currently learning programming
 
